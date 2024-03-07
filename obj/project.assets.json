@@ -4737,11 +4737,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stephenphyo\\Desktop\\Telegram Bot\\TelegrambotInteractionwithUser\\Telegrambot.csproj",
+      "projectUniqueName": "C:\\Users\\stephenphyo\\Desktop\\Telegram Bot\\Telegrambot\\Telegrambot.csproj",
       "projectName": "Telegrambot",
-      "projectPath": "C:\\Users\\stephenphyo\\Desktop\\Telegram Bot\\TelegrambotInteractionwithUser\\Telegrambot.csproj",
+      "projectPath": "C:\\Users\\stephenphyo\\Desktop\\Telegram Bot\\Telegrambot\\Telegrambot.csproj",
       "packagesPath": "C:\\Users\\stephenphyo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stephenphyo\\Desktop\\Telegram Bot\\TelegrambotInteractionwithUser\\obj\\",
+      "outputPath": "C:\\Users\\stephenphyo\\Desktop\\Telegram Bot\\Telegrambot\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\stephenphyo\\AppData\\Roaming\\NuGet\\NuGet.Config",
